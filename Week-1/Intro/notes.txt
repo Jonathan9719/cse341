@@ -1,0 +1,7 @@
+Node.js is built on javascript just that node.js is run on the servers
+    - One great thing about node.js is that it has access to file systems
+    - It also allows you to run javascript on the servers
+Reasons to use node.js include
+    - business logic
+    - responses (get and post)
+    - server 
