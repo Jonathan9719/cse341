@@ -1,0 +1,28 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub): https://github.com/Jonathan9719/cse341/tree/master/cse341-project-master
+
+3. Briefly list and describe the elements of the application that are functioning. 
+    The / username submission
+    The /users list of users is working
+    The /create-user is working
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+    the updating of the user list is not working
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+    the back end of what the server does when requests are sent to the server and how it routes the url to certain pieces of code
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+    I can't think of how to make the users list update so maybe a hint towards that?
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements (check)
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+    I met the requirements that were made but I didn't go above and beyond to update the users list. It's late and I still have a few other assignments to accomplish.
